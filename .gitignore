@@ -15,6 +15,9 @@ ext/modules/
 
 /Global/Competitive_Intelligence/Pivot_2.0/Emails/Submission/*
 /Global/Competitive_Intelligence/Pivot_2.0/cache/*
+
+Global/Competitive_Intelligence/Pivot_2.0/Emails/Submission/*
+Global/Competitive_Intelligence/Pivot_2.0/cache/*
 ext/Makefile*
 ext/config*
 ext/acinclude.m4
